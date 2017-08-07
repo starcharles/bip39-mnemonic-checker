@@ -1,0 +1,22 @@
+{
+  "name": "recover-bip39-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starcharles/bip39-mnemonic-checker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starcharles/bip39-mnemonic-checker/issues"
+  },
+  "homepage": "https://github.com/starcharles/bip39-mnemonic-checker#readme",
+  "dependencies": {
+    "bip39": "file:bip39"
+  }
+}

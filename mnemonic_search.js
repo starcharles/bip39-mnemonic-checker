@@ -1,4 +1,4 @@
-var bip39 = require('./bip39');
+var bip39 = require('bip39');
 var wordlist = bip39.wordlists.EN; 
 
 var my_mnemonic='input mnemonic words';
